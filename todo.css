@@ -1,0 +1,31 @@
+body {
+    background-color: #000099;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+li{
+    border-radius: 5px;
+    background-color: white;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    margin-right: 75px;
+    text-align: center;
+    padding: 10px;
+}
+input:first-child{
+    border-radius: 3px;
+    padding: 10px;
+    margin-left: 45%;
+}
+
+input:last-child{
+    border-radius: 8px;
+    padding: 10px;
+}
+h1, li, input{
+    font-family: 'Helvetica', 'Arial';
+}
